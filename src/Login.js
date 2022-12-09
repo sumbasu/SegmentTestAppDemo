@@ -10,7 +10,7 @@ import cartReducer from './ducks/cart';
 import productsReducer from './ducks/products';
 import productsData from './data/products';
 import 'bootstrap/dist/css/bootstrap.css';
-import Login7Payload from 'tedious/lib/login7-payload';
+//import Login7Payload from 'tedious/lib/login7-payload';
 import { AnalyticsBrowser } from '@segment/analytics-next'
 
 const analytics = AnalyticsBrowser.load({ writeKey: 'NGbJWOc7gdECe6JsObFcsAbQDRq40E2r' })
