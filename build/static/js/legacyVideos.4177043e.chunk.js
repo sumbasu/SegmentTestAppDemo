@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-shop"]=this["webpackJsonpreact-shop"]||[]).push([[2],{190:function(t,n,e){"use strict";e.r(n),e.d(n,"loadLegacyVideoPlugins",(function(){return s}));var i=e(0);function s(t){return Object(i.b)(this,void 0,void 0,(function(){var n;return Object(i.d)(this,(function(i){switch(i.label){case 0:return[4,e.e(10).then(e.t.bind(null,188,7))];case 1:return n=i.sent(),t._plugins=n,[2]}}))}))}}}]);
+//# sourceMappingURL=legacyVideos.4177043e.chunk.js.map
